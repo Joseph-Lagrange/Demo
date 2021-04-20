@@ -1,3 +1,4 @@
 bug
 fix bug
 new bug
+fix new bug
